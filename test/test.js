@@ -2,7 +2,7 @@ var nx = require('next-js-core2');
 var NxObservable = require('../src/next-observable');
 
 describe('NxObservable.methods', function() {
-  test('json/urlencoded', function() {
+  test('init NxObservable', function() {
     var ob1 = new NxObservable();
     var res = ob1.subscribe(function(data) {
       console.log('test1:->', data);
