@@ -5,6 +5,3 @@
 ```bash
 npm install -S afeiship/next-observable --registry=https://registry.npm.taobao.org
 ```
-
-## todos:
-- [ ] unit test case
