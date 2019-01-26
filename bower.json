@@ -1,0 +1,27 @@
+{
+  "name": "next-observable",
+  "version": "0.0.1",
+  "description": "The observer pattern in javascript explained",
+  "main": "dist/next-observable.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-observable",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "build",
+    "gulpfile.js"
+  ]
+}
